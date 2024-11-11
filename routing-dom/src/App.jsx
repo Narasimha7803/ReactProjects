@@ -22,6 +22,7 @@ function App() {
       <Layout />
 
       <div className="card">
+        <h1>new content created</h1>
         <button  style={{backgroundColor:'greenyellow' , color:'red'}}  onClick={() => setCount((count) => count + 2)}>
           count is {count}
         </button>
