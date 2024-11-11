@@ -1,0 +1,95 @@
+#root {
+  padding-left: 3rem;
+  padding-right: 7rem;
+  margin: 0 auto;
+  padding-bottom: 500px; 
+  text-align: center;
+}
+
+
+.heading{
+  text-align: center;
+}
+.addtask{
+  padding-right: 600px;
+  
+}
+.buttonadd{
+  background-color: rgb(6, 6, 240);
+  width:100px ;
+  padding-top: 10px;
+  height: 35px;
+  color: aliceblue;
+  border-radius: 10px;
+  margin-left: 250px;
+}
+.form{
+  padding-top: 30px;
+}
+.listdata{
+  background-color: rgb(251, 249, 247);
+  width: 730px;
+  text-align: left;
+  line-height:90% ;
+  border-radius: 10px;
+   
+}
+
+.dandt{
+  padding-left: 35px;
+}
+.table{
+  background-color: rgb(181, 185, 185);
+  display: flex;
+  width: 800px;
+  border-radius: 20px;
+  margin-left: 15rem;
+  margin-right: -25rem;
+  margin-top: 30px;
+}
+
+.buttondel{
+  background-color: rgb(226, 85, 85);
+  float: right;
+}
+.button1edit{
+  background-color: rgb(139, 205, 73);
+  margin-left: 560px;
+  
+}
+.button2save{
+  background-color: darkkhaki;
+  
+}
+.button3reset{
+  background-color: darkcyan;
+  margin-left: 30px;
+}
+.checkbox{
+  float: left;
+  width: 25px;
+  height: 25px;
+  
+}
+.list{
+  list-style-type: none;
+  
+}
+
+.button{
+  background-color: aqua;
+}
+#overlay {
+  position: absolute; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 53%; /* Full width (cover the whole page) */
+  height: 42%; /* Full height (cover the whole page) */
+  top: 273px;
+  left: 345px;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); 
+  padding-top: 100px;
+  color: rgb(4, 255, 4);
+  border-radius: 20px;
+}

@@ -1,0 +1,24 @@
+{ "products": [
+    {
+     "img": "https://specs-arena.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-3.webp",
+     "company": "SAMSUNG",
+     "model": "Samsung Galaxy S26",
+     "price": "70000",                   
+     "id": "1"               
+    },                 
+    {
+     "img": "https://www.bhphotovideo.com/images/images2000x2000/lenovo_81lg004uus_ideapad_l340_i5_8265u_8gb_1tb_1542745.jpg",
+     "company": "LENOVO",
+    "model": "LENOVO IDEAPAD SLIM 3(15)",
+     "price": "90000",
+     "id": "2"
+    },
+    {
+        "img": "https://specs-arena.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-3.webp",
+        "company": "SAMSUNG",
+        "model": "Samsung Galaxy S26",
+        "price": "70000",                   
+        "id": "3"               
+       }
+    
+   ]}

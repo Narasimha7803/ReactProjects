@@ -1,0 +1,22 @@
+#root {
+  
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+.spacing{
+  padding-right: 30px;
+}
+
+.products{
+ 
+  display: flex;
+  flex-direction: column;
+
+}
+.images{
+  float: left;
+  width: 200px;
+  height: 200px;
+}

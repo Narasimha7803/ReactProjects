@@ -1,0 +1,33 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  
+  text-align: center;
+}
+
+td, th {
+  border: 2px solid #0a0a0a;
+  text-align: center;
+  padding: 8px;
+}
+#overlay {
+  position: absolute; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 53%; /* Full width (cover the whole page) */
+  height: 42%; /* Full height (cover the whole page) */
+  top: 273px;
+  left: 345px;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); 
+  padding-top: 100px;
+  color: rgb(4, 255, 4);
+  border-radius: 20px;
+}
