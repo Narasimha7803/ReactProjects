@@ -25,7 +25,6 @@ function Form({mode,id}) {
 
   const closeOverlay=()=>{
     setEditdata('none');
-    location.reload();
   }
 
   const handleSubmit = async (e) => {
